@@ -1,7 +1,7 @@
 # Stacy-Voice-activated-story-teller
 A voice-activated storytelling model, capable of reciting stories in English
 
-Stacy is an interactive storytelling AI powered by natural language processing. This GitHub repository hosts the code for Stacy, a voice-activated virtual assistant that tells captivating stories based on user input. With Stacy, you can explore a diverse collection of stories from a CSV database.
+Collaborated with a team of five members to develop a voice-activated device akin to Alexa, capable of reciting stories in English and named it Stacy. Stacy is an interactive storytelling AI powered by natural language processing. This GitHub repository hosts the code for Stacy, a voice-activated virtual assistant that tells captivating stories based on user input. With Stacy, you can explore a diverse collection of stories from a CSV database.
 
 <br>
 
